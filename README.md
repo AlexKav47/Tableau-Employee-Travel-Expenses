@@ -10,7 +10,7 @@ The project focuses on helping a **Finance Office Manager** monitor ticket spend
 
 ## 🔗 Live Dashboard
 
-[View on Tableau Public](ADD-YOUR-TABLEAU-PUBLIC-LINK-HERE)
+[View on Tableau Public](https://public.tableau.com/app/profile/alex.kavanagh/viz/CA_Visualisation_20098349/EmployeeTravelExpense)
 
 ---
 
